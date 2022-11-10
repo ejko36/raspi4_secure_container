@@ -1,4 +1,4 @@
-cp ./dhcpcd.confg /etc/.
+cp ./dhcpcd.conf /etc/.
 sudo /etc/init.d/networking restart
 sudo reboot
 
